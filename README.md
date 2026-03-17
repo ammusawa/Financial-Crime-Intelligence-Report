@@ -119,3 +119,12 @@ This project demonstrates how **data analytics can support financial crime inves
 **Abdullahi Mansur**
 
 Data Analyst | Financial Crime Analytics | Business Intelligence
+<img width="768" height="432" alt="Financial Impact" src="https://github.com/user-attachments/assets/390e384a-1d9f-4a2a-a137-fa48bd44980a" />
+<img width="767" height="432" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/975d611b-210d-4d84-a06b-6191f9ca407c" />
+<img width="771" height="434" alt="Crime Pattern Analysis" src="https://github.com/user-attachments/assets/da62e8f3-5ee3-4c24-b796-96684a729282" />
+<img width="767" height="431" alt="Risk Intelligence" src="https://github.com/user-attachments/assets/5fc7c53e-6ed4-4a53-b19e-dbf2ed9a0bba" />
+<img width="769" height="432" alt="Investigation and Enforcement Analysis" src="https://github.com/user-attachments/assets/7eaaf3df-11c8-4798-a278-4809d9bdc6ac" />
+<img width="769" height="433" alt="Investigation and Enforcement Analysis 2" src="https://github.com/user-attachments/assets/a23d8021-9315-4215-8e94-1b74a94cd824" />
+
+
+
